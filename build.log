@@ -1,0 +1,29 @@
+
+> luxorabot@0.1.0 build
+> next build
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Environments: .env
+
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 10.7s
+  Running TypeScript ...
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/8) ...
+  Generating static pages using 7 workers (2/8) 
+  Generating static pages using 7 workers (4/8) 
+  Generating static pages using 7 workers (6/8) 
+Γ£ô Generating static pages using 7 workers (8/8) in 1411.7ms
+  Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /
+Γö£ Γùï /_not-found
+Γö£ Γùï /bot
+Γö£ Γùï /contact
+Γö£ Γùï /faq
+Γöö Γùï /privacy
+
+
+Γùï  (Static)  prerendered as static content
+

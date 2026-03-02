@@ -1,0 +1,218 @@
+{
+    "navigation": {
+        "brand": "Luxora",
+        "brandSpan": "Bots",
+        "home": "Beranda",
+        "bots": "Bot",
+        "privacy": "Privasi",
+        "contact": "Kontak",
+        "changelog": "Log Pembaruan",
+        "toggleTheme": "Ganti Tema"
+    },
+    "hero": {
+        "badge": "🚀 Selamat Datang di Luxora Bot Project",
+        "titleLine1": "Tingkatkan Pengalaman Komunitas Anda dengan",
+        "titleLine2": "Bot Telegram Inovatif",
+        "description": "Dari moderasi tingkat lanjut hingga fitur obrolan yang menyenangkan. Luxora hadir dengan koleksi bot cerdas untuk mengelola, melindungi, dan meramaikan grup Anda secara otomatis.",
+        "exploreBots": "Jelajahi Bot Kami",
+        "contactUs": "Hubungi Kami"
+    },
+    "featureHighlight": {
+        "title": "Mengapa Memilih Luxora?",
+        "description": "Dibangun untuk memberikan kecepatan, keandalan, dan kemudahan penggunaan tak tertandingi guna menggerakkan komunitas Telegram modern.",
+        "features": [
+            {
+                "title": "Sekilat Cahaya",
+                "description": "Waktu respons yang dioptimalkan untuk memastikan komunitas Anda tidak pernah menunggu."
+            },
+            {
+                "title": "Aman & Andal",
+                "description": "Dibuat dengan standar keamanan industri untuk menjaga data Anda tetap aman."
+            },
+            {
+                "title": "Ekosistem Cerdas",
+                "description": "Koleksi bot khusus yang terus berkembang untuk menangani moderasi, hiburan, dan utilitas dengan mulus."
+            }
+        ]
+    },
+    "botCards": {
+        "title": "Temui Bot Utama Kami",
+        "description": "Temukan mesin khusus yang menggerakkan komunitas modern yang berkembang pesat.",
+        "learnMore": "Pelajari lebih lanjut",
+        "bots": {
+            "luxanony": {
+                "name": "Luxora Anony Chat",
+                "description": "Bot obrolan anonim untuk Telegram. Mengobrol dengan orang asing dengan aman tanpa mengungkapkan identitas asli Anda."
+            }
+        }
+    },
+    "callToAction": {
+        "title": "Tetap Terhubung dengan Proyek Luxora",
+        "description": "Bergabunglah dengan saluran Telegram resmi kami untuk mendapatkan pengumuman terbaru, pembaruan, dan jadilah bagian dari komunitas kami yang kian berkembang.",
+        "button": "Gabung Saluran Telegram"
+    },
+    "footer": {
+        "description": "Situs web resmi untuk ekosistem Luxora Bot. Menyediakan bot yang kuat dan andal untuk meningkatkan pengalaman digital Anda.",
+        "quickLinks": "Tautan Cepat",
+        "legal": "Legal",
+        "privacyPolicy": "Kebijakan Privasi",
+        "termsOfService": "Syarat & Ketentuan",
+        "rightsReserved": "Proyek Luxora Bot. Hak cipta dilindungi undang-undang.",
+        "by": "oleh"
+    },
+    "botPage": {
+        "title": "Jelajahi Ekosistem Kami",
+        "description": "Temukan bot khusus yang mendukung berbagai jenis komunitas. Dari moderasi hingga hiburan, kami siap membantu Anda."
+    },
+    "botList": {
+        "goToBot": "Pergi ke Bot",
+        "siteDetails": "Detail di situs",
+        "details": {
+            "luxanony": {
+                "activeUsers": "Pengguna Aktif",
+                "messagesSent": "Pesan Terkirim"
+            }
+        }
+    },
+    "changelogPage": {
+        "title": "Log Pembaruan & Perubahan",
+        "description": "Tetap ikuti perkembangan fitur terbaru, peningkatan, dan perbaikan bug untuk bot kami di seluruh ekosistem Luxora.",
+        "items": [
+            {
+                "title": "Penyaringan & Batasan Rasio Ditingkatkan",
+                "changes": [
+                    "Meningkatkan algoritma deteksi spam untuk menangani teknik penyamaran canggih.",
+                    "Menambahkan batas kecepatan dinamis untuk obrolan grup aktif guna mengurangi peringatan palsu.",
+                    "Mengoptimalkan kueri database untuk waktu respons yang lebih cepat selama lonjakan aktivitas.",
+                    "Memperbaiki masalah di mana pesan sistem (silent) memicu fungsi bisu (mute) secara tidak benar."
+                ]
+            },
+            {
+                "title": "Implementasi Captcha Kustom",
+                "changes": [
+                    "Memperkenalkan blokade captcha matematika yang dapat disesuaikan untuk setiap anggota baru.",
+                    "Admin kini dapat mengatur pesan selamat datang khusus dengan variabel dinamis ({name} dan {id}).",
+                    "Menambahkan penghapusan otomatis untuk pesan selamat datang setelah 5 menit."
+                ]
+            },
+            {
+                "title": "Peluncuran Website Awal",
+                "changes": [
+                    "Meluncurkan situs web resmi merek Luxora Bot.",
+                    "Memperkenalkan direktori bot dan bagian pameran untuk pencarian yang lebih mudah.",
+                    "Menerapkan mode gelap dan tata letak responsif di semua halaman.",
+                    "Menambahkan log pembaruan global untuk memusatkan informasi terkait pembaruan bot."
+                ]
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Hubungi Kami",
+        "description": "Punya pertanyaan, butuh bantuan, atau ingin mendiskusikan kemitraan? Pilih cara terbaik untuk menghubungi tim kami di bawah ini.",
+        "footerNote1": "Kami biasanya membalas surel dalam waktu 24-48 jam.",
+        "footerNote2": "Untuk keadaan mendesak, silakan gunakan Bot Bantuan Telegram."
+    },
+    "privacyPage": {
+        "title": "Kebijakan Privasi",
+        "lastUpdated": "Terakhir diperbarui:",
+        "intro": "Privasi Anda sangat penting bagi kami di **Proyek Luxora Bot**. Kebijakan Privasi ini menjelaskan data apa saja yang kami kumpulkan, mengapa kami mengumpulkannya, dan bagaimana kami menangani informasi pribadi Anda saat Anda menggunakan layanan dan bot Telegram kami.",
+        "sections": [
+            {
+                "title": "1. Informasi yang Kami Kumpulkan",
+                "content": "Saat Anda berinteraksi dengan bot kami di Telegram, kami mengumpulkan informasi dasar tertentu yang disediakan oleh API Telegram untuk memastikan layanan kami berfungsi dengan baik. Data yang kami kumpulkan meliputi:",
+                "list": [
+                    "**ID Pengguna Telegram:** Pengenal numerik unik yang diberikan ke akun Anda oleh Telegram. Ini diperlukan untuk mengidentifikasi Anda di seluruh sesi dan mengelola interaksi Anda dengan bot.",
+                    "**Nama Pengguna (Username):** Nama pengguna Telegram publik Anda (misalnya, @username).",
+                    "**Nama:** Nama depan dan nama belakang Anda yang tertera pada profil Telegram Anda.",
+                    "**Data Penggunaan:** Informasi tentang bagaimana Anda berinteraksi dengan bot kami, termasuk perintah yang digunakan serta cap waktu, untuk meningkatkan layanan kami dan mendeteksi penyalahgunaan."
+                ]
+            },
+            {
+                "title": "2. Bagaimana Kami Menggunakan Informasi Anda",
+                "content": "Data yang kami kumpulkan hanya digunakan secara ketat untuk tujuan berikut:",
+                "list": [
+                    "Untuk menyediakan, mengoperasikan, dan memelihara bot dan layanan kami.",
+                    "Untuk mempersonalisasi pengalaman Anda dan menyajikan konten yang relevan dengan permintaan Anda.",
+                    "Untuk mengautentikasi pengguna dan mengelola akses ke fitur bot tertentu.",
+                    "Untuk meningkatkan, menguji, dan memecahkan masalah bot kami.",
+                    "Untuk menegakkan syarat dan ketentuan layanan kami dan mencegah aktivitas berbahaya atau penyalahgunaan."
+                ]
+            },
+            {
+                "title": "3. Berbagi dan Pengungkapan Data",
+                "content": "Kami **tidak** menjual, menyewakan, maupun menukar informasi pribadi Anda dengan pihak ketiga. Kami hanya dapat membagikan data Anda dalam keadaan berikut:",
+                "list": [
+                    "**Penyedia Layanan:** Kami dapat membagikan data dengan penyedia layanan pihak ketiga tepercaya yang membantu kami mengoperasikan infrastruktur kami (seperti hosting database), dengan tunduk pada perjanjian kerahasiaan yang ketat.",
+                    "**Persyaratan Hukum:** Kami mungkin mengungkapkan informasi Anda jika diwajibkan oleh hukum atau sebagai tanggapan atas permintaan yang sah dari pihak berwenang publik."
+                ]
+            },
+            {
+                "title": "4. Retensi (Penyimpanan) Data",
+                "content": "Kami menyimpan data Telegram Anda hanya selama diperlukan untuk tujuan yang diuraikan dalam Kebijakan Privasi ini. Jika Anda berhenti menggunakan bot kami atau memblokirnya, kami mungkin secara berkala membersihkan data pengguna yang tidak aktif dari basis data kami. Namun, catatan dasar (seperti ID Pengguna Anda) dapat disimpang lebih lama untuk tujuan keamanan dan anti-penyalahgunaan.",
+                "list": []
+            },
+            {
+                "title": "5. Keamanan Data Anda",
+                "content": "Kami sangat menghargai kepercayaan Anda dalam memberikan data pribadi kepada kami. Kami menggunakan sarana komersial yang dapat diterima untuk melindunginya, termasuk penyimpanan database yang aman dan koneksi terenkripsi. Meskipun demikian, harap diingat bahwa tidak ada satu metode transmisi pun melalui internet, atau metode penyimpanan elektronik, yang 100% aman, dan kami tidak dapat menjamin keamanan absolutnya.",
+                "list": []
+            },
+            {
+                "title": "6. Hak Atas Data Anda",
+                "content": "Bergantung pada lokasi Anda, Anda mungkin memiliki hak untuk meminta akses ke, mengoreksi, atau menghapus data pribadi yang kami miliki tentang Anda. Jika Anda ingin menghapus data Anda dari sistem kami, umumnya Anda bisa melakukannya dengan menghentikan penggunaan bot dan menghubungi kami secara langsung.",
+                "list": []
+            },
+            {
+                "title": "7. Perubahan Kebijakan Privasi Ini",
+                "content": "Kami mungkin memperbarui Kebijakan Privasi kami dari waktu ke waktu. Kami akan memberi tahu Anda tentang segala perubahan dengan menerbitkan Kebijakan Privasi yang baru pada halaman ini. Anda disarankan untuk meninjau Kebijakan Privasi ini secara berkala untuk melihat adanya perubahan.",
+                "list": []
+            },
+            {
+                "title": "8. Hubungi Kami",
+                "content": "Bila Anda memiliki pertanyaan atau usulan tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami melalui saluran resmi Telegram atau bot dukungan kami.",
+                "list": []
+            }
+        ]
+    },
+    "termsPage": {
+        "title": "Syarat & Ketentuan",
+        "lastUpdated": "Terakhir diperbarui:",
+        "intro": "Selamat datang di **Proyek Luxora Bot**. Dengan mengakses dan menggunakan bot, layanan, dan situs web kami, Anda menyetujui persyaratan dan ketentuan berikut. Harap baca dengan saksama sebelum menggunakan layanan kami.",
+        "sections": [
+            {
+                "title": "1. Penerimaan Syarat",
+                "content": "Dengan menggunakan atau menambahkan Luxora Bot apa pun ke server atau grup Anda, Anda mengonfirmasi bahwa Anda telah membaca, memahami, dan menyetujui Syarat dan Ketentuan ini beserta Kebijakan Privasi kami. Jika Anda tidak setuju, mohon jangan gunakan layanan kami.",
+                "list": []
+            },
+            {
+                "title": "2. Deskripsi Layanan",
+                "content": "Luxora Bots menyediakan alat otomatisasi, moderasi, hiburan, dan fungsi utilitas lainnya dalam platform Telegram. Layanan disediakan \"sebagaimana adanya\" dan dapat diperbarui, diubah, atau dihentikan setiap saat tanpa pemberitahuan sebelumnya.",
+                "list": []
+            },
+            {
+                "title": "3. Perilaku Pengguna dan Pembatasan",
+                "content": "Pengguna harus memastikan kepatuhan terhadap Ketentuan Layanan Telegram saat menggunakan bot kami. Penggunaan yang dilarang meliputi, tetapi tidak terbatas pada:",
+                "list": [
+                    "Menggunakan bot kami untuk mendistribusikan konten ilegal, berbahaya, atau berisi spam.",
+                    "Mengirimkan spam ke infrastruktur kami melalui permintaan bot yang berlebihan.",
+                    "Berupaya mengeksploitasi, meretas, atau merekayasa balik kerangka kerja bot.",
+                    "Melanggar privasi pengguna lain atau mengumpulkan data mereka tanpa persetujuan."
+                ]
+            },
+            {
+                "title": "4. Tanggung Jawab Administrator Grup",
+                "content": "Sebagai pihak yang mengundang bot ini ke dalam grup atau saluran, Anda bertanggung jawab penuh atas konfigurasinya dan setiap dampak pada komunitas Anda karena penggunaannya yang tidak tepat. Kami tidak bertanggung jawab atas kerugian yang ditimbulkan oleh salah konfigurasi bot.",
+                "list": []
+            },
+            {
+                "title": "5. Batasan Tanggung Jawab",
+                "content": "Proyek Luxora Bot atau pengembangnya tidak bertanggung jawab atas segala kerusakan tidak langsung, insidental, atau konsekuensial yang diakibatkan oleh penggunaan layanan kami. Layanan beroperasi dengan upaya terbaik, dan waktu operasi tidak dijamin 100%.",
+                "list": []
+            },
+            {
+                "title": "6. Perubahan Ketentuan ini",
+                "content": "Proyek Luxora Bot berhak merevisi Ketentuan ini sewaktu-waktu. Terus menggunakan layanan kami setelah perubahan merupakan bentuk penerimaan syarat dan ketentuan baru tersebut.",
+                "list": []
+            }
+        ]
+    }
+}

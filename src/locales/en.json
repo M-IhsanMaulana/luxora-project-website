@@ -1,0 +1,218 @@
+{
+    "navigation": {
+        "brand": "Luxora",
+        "brandSpan": "Bots",
+        "home": "Home",
+        "bots": "Bots",
+        "privacy": "Privacy",
+        "contact": "Contact",
+        "changelog": "Changelog",
+        "toggleTheme": "Toggle Theme"
+    },
+    "hero": {
+        "badge": "🚀 Welcome to the Luxora Bot Project",
+        "titleLine1": "Elevate Your Community Experience with",
+        "titleLine2": "Innovative Telegram Bots",
+        "description": "From advanced moderation to fun chat features. Luxora offers a collection of intelligent bots to automatically manage, protect, and engage your groups.",
+        "exploreBots": "Explore Our Bots",
+        "contactUs": "Contact Us"
+    },
+    "featureHighlight": {
+        "title": "Why Choose Luxora?",
+        "description": "Built to deliver unparalleled speed, reliability, and ease of use to power modern Telegram communities.",
+        "features": [
+            {
+                "title": "Lightning Fast",
+                "description": "Optimized response times ensuring your community never waits."
+            },
+            {
+                "title": "Secure & Reliable",
+                "description": "Built with industry standard security to keep your data safe."
+            },
+            {
+                "title": "Smart Ecosystem",
+                "description": "A growing collection of specialized bots to handle moderation, entertainment, and utilities seamlessly."
+            }
+        ]
+    },
+    "botCards": {
+        "title": "Meet Our Core Bots",
+        "description": "Discover the specialized engines that power thriving modern communities.",
+        "learnMore": "Learn more",
+        "bots": {
+            "luxanony": {
+                "name": "Luxora Anony Chat",
+                "description": "Anonymous chat bot for Telegram. Chat with strangers safely without revealing your real identity."
+            }
+        }
+    },
+    "callToAction": {
+        "title": "Stay Connected with Luxora Project",
+        "description": "Join our official Telegram channel to get the latest announcements, updates, and become part of our growing community.",
+        "button": "Join Telegram Channel"
+    },
+    "footer": {
+        "description": "The official brand website for the Luxora Bot ecosystem. Providing powerful and reliable bots to enhance your digital experience.",
+        "quickLinks": "Quick Links",
+        "legal": "Legal",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "rightsReserved": "Luxora Bot Project. All rights reserved.",
+        "by": "by"
+    },
+    "botPage": {
+        "title": "Explore Our Ecosystem",
+        "description": "Discover the specialized bots that power thriving communities. From moderation to entertainment, we have you covered."
+    },
+    "botList": {
+        "goToBot": "Go to Bot",
+        "siteDetails": "Site details",
+        "details": {
+            "luxanony": {
+                "activeUsers": "Active Users",
+                "messagesSent": "Messages Sent"
+            }
+        }
+    },
+    "changelogPage": {
+        "title": "Changelog & Updates",
+        "description": "Stay up to date with the latest features, improvements, and bug fixes for our bots across the Luxora ecosystem.",
+        "items": [
+            {
+                "title": "Improved Filtering & Rate Limits",
+                "changes": [
+                    "Upgraded the spam detection algorithm to handle advanced obfuscation techniques.",
+                    "Added dynamic rate limits for active group chats to reduce false positives.",
+                    "Optimized database queries for faster response times during peak loads.",
+                    "Fixed an issue where silent messages were incorrectly triggering the mute function."
+                ]
+            },
+            {
+                "title": "Custom Captcha Implementation",
+                "changes": [
+                    "Introduced a customizable math block captcha for all new joiners.",
+                    "Admins can now set custom welcome messages with dynamic variables ({name} and {id}).",
+                    "Added auto-deletion for welcome messages after 5 minutes."
+                ]
+            },
+            {
+                "title": "Initial Website Launch",
+                "changes": [
+                    "Launched the official Luxora Bot brand website.",
+                    "Introduced the bot directory and showcase section for easier discovery.",
+                    "Implemented dark mode and responsive design across all pages.",
+                    "Added a global changelog track to centralize bot update info."
+                ]
+            }
+        ]
+    },
+    "contactPage": {
+        "title": "Get in Touch",
+        "description": "Have questions, need support, or want to discuss a partnership? Choose the best way to reach our team below.",
+        "footerNote1": "We typically respond to emails within 24-48 hours.",
+        "footerNote2": "For urgent matters, please use the Telegram Support Bot."
+    },
+    "privacyPage": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last updated:",
+        "intro": "Your privacy is critically important to us at the **Luxora Bot Project**. This Privacy Policy outlines what data we collect, why we collect it, and how we handle your personal information when you use our Telegram bots and services.",
+        "sections": [
+            {
+                "title": "1. Information We Collect",
+                "content": "When you interact with our bots on Telegram, we collect certain basic information provided by the Telegram API to ensure the proper functionality of our services. The data we collect includes:",
+                "list": [
+                    "**Telegram User ID:** A unique numerical identifier assigned to your account by Telegram. This is required to identify you across sessions and manage your interactions with the bot.",
+                    "**Username:** Your public Telegram username (e.g., @username).",
+                    "**Name:** Your first name and last name as displayed on your Telegram profile.",
+                    "**Usage Data:** Information about how you interact with our bots, including commands used and timestamps, to improve our services and detect abuse."
+                ]
+            },
+            {
+                "title": "2. How We Use Your Information",
+                "content": "The data we collect is used strictly for the following purposes:",
+                "list": [
+                    "To provide, operate, and maintain our bots and services.",
+                    "To personalize your experience and deliver content relevant to your requests.",
+                    "To authenticate users and manage access to certain bot features.",
+                    "To improve, test, and troubleshoot our bots.",
+                    "To enforce our terms of service and prevent malicious activity or abuse."
+                ]
+            },
+            {
+                "title": "3. Data Sharing and Disclosure",
+                "content": "We **do not** sell, rent, or trade your personal information to third parties. We may share your data only in the following circumstances:",
+                "list": [
+                    "**Service Providers:** We may share data with trusted third-party service providers who assist us in operating our infrastructure (such as database hosting), subject to strict confidentiality agreements.",
+                    "**Legal Requirements:** We may disclose your information if required to do so by law or in response to valid requests by public authorities."
+                ]
+            },
+            {
+                "title": "4. Data Retention",
+                "content": "We retain your Telegram data only for as long as is necessary for the purposes set out in this Privacy Policy. If you stop using our bots or block them, we may periodically clean up inactive user data from our databases. However, basic records (such as your User ID) may be kept longer for security and anti-abuse purposes.",
+                "list": []
+            },
+            {
+                "title": "5. Security of Your Data",
+                "content": "We value your trust in providing us with your personal data. We use commercially acceptable means of protecting it, including secure database storage and encrypted connections. However, please remember that no method of transmission over the internet, or method of electronic storage, is 100% secure, and we cannot guarantee its absolute security.",
+                "list": []
+            },
+            {
+                "title": "6. Your Data Rights",
+                "content": "Depending on your location, you may have the right to request access to, correction of, or deletion of your personal data held by us. If you wish to delete your data from our systems, you can typically do so by stopping your usage of the bots and contacting us directly.",
+                "list": []
+            },
+            {
+                "title": "7. Changes to This Privacy Policy",
+                "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.",
+                "list": []
+            },
+            {
+                "title": "8. Contact Us",
+                "content": "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via our official Telegram channel or support bot.",
+                "list": []
+            }
+        ]
+    },
+    "termsPage": {
+        "title": "Terms of Service",
+        "lastUpdated": "Last updated:",
+        "intro": "Welcome to the **Luxora Bot Project**. By accessing and using our bots, services, and website, you agree to comply with the following terms and conditions. Please read them carefully before using our services.",
+        "sections": [
+            {
+                "title": "1. Acceptance of Terms",
+                "content": "By using or adding any Luxora Bot to your server or group, you confirm that you have read, understood, and agree to these Terms of Service along with our Privacy Policy. If you do not agree, please do not use our services.",
+                "list": []
+            },
+            {
+                "title": "2. Description of Service",
+                "content": "Luxora Bots provides automation, moderation, entertainment, and other utility functionalities within the Telegram platform. Services are provided \"as is\" and may be updated, modified, or discontinued at any time without prior notice.",
+                "list": []
+            },
+            {
+                "title": "3. User Conduct and Restrictions",
+                "content": "Users must ensure compliance with Telegram’s Terms of Service when utilizing our bots. Prohibited uses include, but are not limited to:",
+                "list": [
+                    "Using our bots to distribute illegal, harmful, or spam content.",
+                    "Spamming our infrastructure through excessive bot requests.",
+                    "Attempting to exploit, hack, or reverse-engineer the bot framework.",
+                    "Violating the privacy of other users or collecting their data without consent."
+                ]
+            },
+            {
+                "title": "4. Group Administrator Responsibilities",
+                "content": "As the entity inviting these bots into your group or channel, you are fully responsible for their configuration and any impact on your community due to improper use. We are not liable for damages caused by bot misconfiguration.",
+                "list": []
+            },
+            {
+                "title": "5. Limitation of Liability",
+                "content": "The Luxora Bot Project and its developers shall not be held liable for any indirect, incidental, or consequential damages resulting from the use of our services. The service operates on a best-effort basis, and 100% uptime is not guaranteed.",
+                "list": []
+            },
+            {
+                "title": "6. Changes to these Terms",
+                "content": "The Luxora Bot Project reserves the right to revise these Terms at any time. Continued use of our services after any modifications signifies acceptance of the new terms and conditions.",
+                "list": []
+            }
+        ]
+    }
+}
