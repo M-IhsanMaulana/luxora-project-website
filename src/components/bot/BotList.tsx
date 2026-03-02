@@ -46,7 +46,7 @@ const getBotsData = (dict: any, dictCards: any): BotData[] => [
             { label: dict.details.luxanony?.activeUsers || "Active Users", value: "10K+" },
             { label: dict.details.luxanony?.messagesSent || "Messages Sent", value: "5M+" },
         ],
-        botUrl: "https://t.me/AnonyBot", // Need to verify actual bot URL or keep it generic
+        botUrl: "https://t.me/luxanonychatbot", // Need to verify actual bot URL or keep it generic
         siteUrl: "/bot/luxanony",
         logoUrl: "/images/logo/logo-anony-chat.png",
     }
